@@ -35,9 +35,9 @@ Here's how you can do it:
 
  ### Key Features:
  
--Natural Language Processing: The chatbot can understand the context and respond in a conversational manner.
--User Interaction: Users can chat with the bot, ask questions, and receive real-time responses.
--Exit Functionality: Type "exit" to end the chat gracefully.
+- Natural Language Processing: The chatbot can understand the context and respond in a conversational manner.
+- User Interaction: Users can chat with the bot, ask questions, and receive real-time responses.
+- Exit Functionality: Type "exit" to end the chat gracefully.
 
 ### How It Works:
 
