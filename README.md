@@ -12,7 +12,7 @@ To run this project, you need to have the following installed:
 
 - Node.js (version 12 or later)
 - npm (Node Package Manager)
-- 
+  
 ### Installation
 
 1. Clone this repository to your local machine:
@@ -33,6 +33,16 @@ Here's how you can do it:
 3. Create a new file named `.env` in the root of the project and add the following line, replacing `<YOUR_API_KEY>` with your actual API key:
    OPENAI_API_KEY=<YOUR_API_KEY>
 
+ ### Key Features:
+ 
+-Natural Language Processing: The chatbot can understand the context and respond in a conversational manner.
+-User Interaction: Users can chat with the bot, ask questions, and receive real-time responses.
+-Exit Functionality: Type "exit" to end the chat gracefully.
+
+### How It Works:
+
+Utilizes Node.js, and OpenAI API.
+Supports multi-turn conversations and history tracking.
    
 ### Usage
 
